@@ -33,11 +33,11 @@ A simple calendar application that allows a user to save events for each hour of
 
 # Resource links:
 
-* Github repository URL :  
+* Github repository URL : https://github.com/saranya-code/Work_Day_Scheduler
 
-* Deployment URL : 
+* Deployment URL : https://saranya-code.github.io/Work_Day_Scheduler/
 
-* Screenshot :
+* Demo :
 
  ![Webpage Screenshot](./assets/images/DemoURL.gif?raw=true)
 
